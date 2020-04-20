@@ -1,5 +1,5 @@
 # dumpexif
-A simple tool to extract/strip/re-assamble exif datas from jpeg files.
+A simple tool to extract/strip/re-assemble exif datas from jpeg files.
 
 # usage
 
@@ -11,6 +11,6 @@ strip exif off from jpeg
 
     stripjpeg IMAGE.jpg STRIP.jpg
   
-re-assamble jpeg from a jpeg and a dumped exif
+re-assemble jpeg from a jpeg and a dumped exif
 
     exifjpeg IMAGE.jpg IMAGE.exif NEWIMAGE.jpg
